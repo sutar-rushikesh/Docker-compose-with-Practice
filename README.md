@@ -42,3 +42,15 @@ docker compose down --volumes
 ## Will stopping (ctrl+C or `docker compose stop`) remove containers?
 
 No, the containers just exit. `docker compose down` will remove the containers. The stopped container is why the counter will remain the same when runing `docker compose up` in a loop while stopping it each time, the data remains the redis container.
+------------------------------------------------------------------------
+
+## 👨‍💻 Author
+
+Rushikesh Sutar\
+DevOps Engineer
+Empowering learners in Linux, DevOps, Cloud & Automation 🚀
+
+------------------------------------------------------------------------
+
+⭐ If this repository helped you, consider giving it a star.
+
